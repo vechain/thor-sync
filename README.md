@@ -46,3 +46,6 @@ You can download preview version on [Release page](https://github.com/vechain/th
 | Sub-modules| network | Description |
 | --- | --- | --- |
 | Claim token | TestNet | Type in / select the account or input the address which is willing to receive the amount of  dual-token .  |
+
+## Doc
+[Manual](https://github.com/vechain/thor-sync/wiki/Sync-manual)
