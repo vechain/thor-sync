@@ -1,6 +1,9 @@
-# thor-sync
+# thor-sync 
 
-[![GitHub (pre-)release](https://img.shields.io/github/release/vechain/thor-sync/all.svg)](https://github.com/vechain/thor-sync/releases)
+[![GitHub (pre-)release](https://img.shields.io/github/release/vechain/thor-sync/all.svg)](https://github.com/vechain/thor-sync/releases) [![Gitter](https://badges.gitter.im/vechain/thor.svg)](https://gitter.im/vechain/thor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+**THIS IS EXPERIMENTAL SOFTWARE. USE AT YOUR OWN RISK. THIS SOFTWARE CAN NOT BE HELD LIABLE UNDER ANY CIRCUMSTANCES FOR DAMAGE TO HARDWARE , LOST DATA, OR OTHER DIRECT OR INDIRECT DAMAGE RESULTING FROM THE USE OF THIS SOFTWARE.**
+
 
 ## Installation 
 You can download preview version on [Release page](https://github.com/vechain/thor-sync/releases), you can easily explore the VeChainThor after download. 
