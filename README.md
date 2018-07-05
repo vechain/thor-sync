@@ -30,9 +30,9 @@ You can download preview version on [Release page](https://github.com/vechain/th
 
 | Sub-modules| network | Description |
 | --- | --- | --- |
-| Single transaction |MainNet / TestNet | sending an transaction(transfer) to a recipient  |
+| Single transaction | MainNet / TestNet | sending an transaction(transfer) to a recipient  |
 | Multi- transaction | MainNet / TestNet | sending an transaction include multiple recipient(clauses) |
-| contract deployment|MainNet / TestNet  | deploy a a smart contract on VeChainThor network  |
+| contract deployment| MainNet / TestNet  | deploy a a smart contract on VeChainThor network  |
 
 ### Insights
 
@@ -50,5 +50,12 @@ You can download preview version on [Release page](https://github.com/vechain/th
 | --- | --- | --- |
 | Claim token | TestNet | Type in / select the account or input the address which is willing to receive the amount of  dual-token .  |
 
+### Network
+
+| Sub-modules| network | Description |
+| --- | --- | --- |
+| netowrk | MainNet / TestNet | Allow user to switch between mainnet and testnet  |
+
 ## Doc
-[Manual](https://github.com/vechain/thor-sync/wiki/Sync-manual)
+[Sync-modules](https://github.com/vechain/thor-sync/wiki/Sync-modules)
+[Transaction fee](https://github.com/vechain/thor/wiki/Transaction-Model#transaction-fee-calculation)
