@@ -54,7 +54,7 @@ You can download preview version on [Release page](https://github.com/vechain/th
 
 | Sub-modules| network | Description |
 | --- | --- | --- |
-| netowrk | MainNet / TestNet | Allow user to switch between mainnet and testnet  |
+| network | MainNet / TestNet | Allow user to switch between mainnet and testnet  |
 
 ## Doc
 [Sync-modules](https://github.com/vechain/thor-sync/wiki/Sync-modules)
