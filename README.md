@@ -58,4 +58,4 @@ You can download preview version on [Release page](https://github.com/vechain/th
 
 ## Doc
 [Sync-modules](https://github.com/vechain/thor-sync/wiki/Sync-modules)
-[Transaction fee](https://github.com/vechain/thor/wiki/Transaction-Model#transaction-fee-calculation)
+[Transaction fee](https://github.com/vechain/thor/wiki/FAQ#transaction-fee-calculation)
